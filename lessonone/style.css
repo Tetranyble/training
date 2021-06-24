@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    margin-left: -16px;
+    margin-right: -16px;
+}
+.col-4{
+    padding: 16px;
+    height: 150px;
+    background-color: red;
+    border-radius: 10px;
+    border: 2px solid pink;
+}
